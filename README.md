@@ -1,3 +1,3 @@
 # JerryLover
 
-##A Skyblock QOL mod
+## A Skyblock QOL mod
