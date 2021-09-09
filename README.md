@@ -1,3 +1,3 @@
 # JerryLover
 
-## A Hypixel QOL mod
+## A Hypixel Ah Flipping MOd
